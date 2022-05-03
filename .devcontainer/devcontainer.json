@@ -3,5 +3,12 @@
 	"context": "..",
 	"dockerFile": "../Dockerfile.dev",
 	"settings": {},
-	"extensions": []
+	"extensions": [
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"arcanis.vscode-zipfs",
+		"mhutchie.git-graph",
+		"eamodio.gitlens",
+		"fabiospampinato.vscode-highlight"
+	]
 }
