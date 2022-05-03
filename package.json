@@ -8,6 +8,9 @@
     "email": "wiii@kakao.com"
   },
   "license": "MIT",
+  "scripts": {
+    "ws": "yarn workspace"
+  },
   "workspaces": {
     "packages": [
       "packages/*"
